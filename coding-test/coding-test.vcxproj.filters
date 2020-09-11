@@ -13,19 +13,40 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\beakjune">
+      <UniqueIdentifier>{8bf17054-78ed-4cbc-a0ea-7a15cc9cf292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\beakjune\그래프,DFS,BFS">
+      <UniqueIdentifier>{25ad0553-3a19-4dce-8c6d-60d5c7828729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\test">
+      <UniqueIdentifier>{8ac54330-b4da-4f12-b1a8-33e3db72fc83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\beakjune\브루트포스%28순열%29">
+      <UniqueIdentifier>{d2dc43b5-c0ff-467c-be9e-84af94d2d7d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2667.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4963.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1697.cpp">
+      <Filter>소스 파일\beakjune\그래프,DFS,BFS</Filter>
     </ClCompile>
     <ClCompile Include="2178.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\beakjune\그래프,DFS,BFS</Filter>
     </ClCompile>
-    <ClCompile Include="1697.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="2667.cpp">
+      <Filter>소스 파일\beakjune\그래프,DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="4963.cpp">
+      <Filter>소스 파일\beakjune\그래프,DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="10974.cpp">
+      <Filter>소스 파일\beakjune\브루트포스%28순열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10971.cpp">
+      <Filter>소스 파일\beakjune\브루트포스%28순열%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
