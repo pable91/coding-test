@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\beakjune\브루트포스%28순열%29">
       <UniqueIdentifier>{d2dc43b5-c0ff-467c-be9e-84af94d2d7d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\beakjune\다이나믹프로그래밍">
+      <UniqueIdentifier>{c6a4b5d4-956a-45d5-a50f-2bcfcb78b242}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1697.cpp">
@@ -47,6 +50,15 @@
     </ClCompile>
     <ClCompile Include="10971.cpp">
       <Filter>소스 파일\beakjune\브루트포스%28순열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1463.cpp">
+      <Filter>소스 파일\beakjune\다이나믹프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일\beakjune\다이나믹프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="11727.cpp">
+      <Filter>소스 파일\beakjune\다이나믹프로그래밍</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
